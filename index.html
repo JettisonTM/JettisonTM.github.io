@@ -9,35 +9,18 @@
       background-image: url(https://raw.githubusercontent.com/JettisonTM/JettisonTM.github.io/refs/heads/main/media/background.png);
     }
   </style> 
-
+  
   <body>
     <div id="app" style="height: 100vh">
       <!-- Webamp will attempt to center itself within this div -->
     </div>
-    <script src="https://unpkg.com/webamp@0.0.0-next-6d0ec37b/built/webamp.bundle.min.js"></script>
+    <script src="https://unpkg.com/webamp@1.4.2/built/webamp.bundle.min.js"></script>
     <script>
       const Webamp = window.Webamp;
       const webamp = new Webamp({
-        windowLayout: {
-          main: {
-            position: { top: 0, left: 0 },
-            shadeMode: true,
-            closed: false,
-          },
-          equalizer: {
-            position: { top: 230, left: 0 },
-            shadeMode: true,
-            closed: true,
-          },
-          playlist: {
-            position: { top: 28, left: 0 },
-            shadeMode: false,
-            size: { extraHeight: 3, extraWidth: 11 },
-            closed: true,
-          },
-        },
-        enableDoubleSizeMode: true,
         initialTracks: [
+          {
+            initialTracks: [
           {
             metaData: {
               artist: "JetTM",

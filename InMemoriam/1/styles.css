@@ -1,0 +1,57 @@
+body {
+    background-image: url('https://github.com/JettisonTM/JettisonTM.github.io/tree/main/media/inmemoriam/grave.jpg?raw=true');
+    background-size: 12.5%;
+    margin: 0;
+    padding: 0;
+}
+
+.Prelude {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #111111;
+    width: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
+}
+
+
+.Prelude h1 {
+    margin-bottom: 20px;
+}
+
+.Prelude-Content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Prelude-Audio, .Prelude-Text {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.Prelude-Audio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.Prelude-Text {
+    justify-content: flex-end;
+    font-size: larger;
+}
+
+.cover-image {
+    width: 86%;
+}

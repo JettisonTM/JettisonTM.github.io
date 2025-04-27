@@ -15,16 +15,16 @@
 
     .button-container {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         gap: 30px;
     }
 
     .button {
-        background-color: #222222;
-        border: 3px solid #eeeeee;
-        border-radius: 10px;
+        background-color: #111111;
+        border: 3px solid #999999;
+        border-radius: 15px;
         color: white;
-        width: 300px;
+        width: 464px;
         height: 80px;
         text-align: center;
         text-decoration: none;
@@ -35,14 +35,77 @@
         cursor: pointer;
     }
 
+    .Prelude {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        background-color: #111111;
+        border: 3px solid #999999;
+        width: 40%;
+        color: white;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-weight: 100;
+        text-align: center;
+        padding: 10px 0px;
+        border-radius: 15px;
+        font-size: larger;
+    }
+
+    .Prelude-Content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .picture, .Text {
+        width: 50%;
+        display: flex;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .picture {
+        justify-content: flex-end;
+        font-size: larger;
+    }
+
+    .Text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        font-weight: bold;
+        font-size: 10;
+    }
+
+    .image {
+        width: 100%;
+    }
+
+    .stack {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
 </style>
 </head>
-<body>
+<body class="stack">
 
-<div class="button-container">
-    <a href="https://jettisontm.github.io/in-memoriam/1/" class="button">The Prelude</a>
-    <a href="https://jettisontm.github.io/in-memoriam/2/" class="button">The Cream Day Era</a>
-</div>
+    <div class="Prelude">
+        <div class="Prelude-Content">
+            <h1 class="Text">
+                In Memoriam Of - <br> P SLIMER
+            </h1>
+            <div class="picture">
+                <img src="https://github.com/JettisonTM/JettisonTM.github.io/blob/main/media/in-memoriam/p-slimer.png?raw=true" class="image">
+            </div>
+        </div>
+    </div>
+
+    <div class="button-container">
+        <a href="https://jettisontm.github.io/in-memoriam/1/" class="button">1. The Prelude</a>
+        <a href="https://jettisontm.github.io/in-memoriam/2/" class="button">2. The Cream Day Era</a>
+    </div>
 
 </body>
 </html>

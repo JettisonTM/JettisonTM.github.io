@@ -81,3 +81,14 @@ body {
     border-radius: 15px;
     font-size: larger;
 }
+
+.Title-Description {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

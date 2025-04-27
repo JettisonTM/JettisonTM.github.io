@@ -10,6 +10,7 @@ body {
     margin-right: auto;
     margin-top: 20px;
     background-color: #111111;
+    border: 3px solid #999999;
     width: 75%;
     color: white;
     font-family: 'Trebuchet MS', sans-serif;
@@ -54,4 +55,29 @@ body {
 
 .cover-image {
     width: 86%;
+}
+
+.button {
+    color: white;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.button-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #111111;
+    border: 3px solid #999999;
+    width: 100px;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
 }

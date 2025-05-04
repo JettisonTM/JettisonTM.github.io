@@ -32,6 +32,22 @@ body {
     align-items: center;
 }
 
+.Prelude-important {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #222222;
+    border: 3px solid #cccccc;
+    width: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
+}
+
 .Prelude-Audio, .Prelude-Text {
     width: 50%;
     display: flex;

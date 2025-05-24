@@ -1,0 +1,113 @@
+body {
+    background-image: url('https://github.com/JettisonTM/JettisonTM.github.io/blob/main/media/in-memoriam/grave.jpg?raw=true');
+    background-size: 12.5%;
+    margin: 0;
+    padding: 0;
+}
+
+.Title {
+    margin-bottom: 20px;
+}
+
+.Title-Description {
+    width: 81%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.Container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #111111;
+    border: 3px solid #999999;
+    width: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
+}
+
+.Container-Content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Content-Description {
+    justify-content: flex-end;
+    font-size: larger;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.Content-Audio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-weight: bold;
+    font-size: larger;
+    width: 50%;
+    display: flex;
+    padding: 20px;
+}
+
+.Audio {
+    width: 86%;
+}
+
+.Image {
+    width: 86%;
+}
+
+.Container-Important {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #222222;
+    border: 3px solid #cccccc;
+    width: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
+}
+
+.Back-Button {
+    color: white;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Back-Button-Container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #111111;
+    border: 3px solid #999999;
+    width: 100px;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 15px;
+    font-size: larger;
+}

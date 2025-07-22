@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+    <body>
+        <br>
+        <div class="Prelude">
+            <h1>The Cream Day Era</h1>
+            <div class="Title-Description">
+                The Cream Day Era saw me joining a pseudo band with a few of my friends. The band (called Cream Day) contained P Slimer, lil kc (the new name of Lil Yom), and Jimmy Frankfurt Da Rappa (one of my and lil kc’s irl friends). We only really released one song as a trio, but there were a few songs leading up to the release of Greetings Loved Ones.
+                <br>
+                The idea with Cream Day was to make... freaky parodies.
+            </div>
+        </div>
+        <div class="Prelude">
+            <div class="Prelude-Content">
+                <div class="Prelude-Audio">
+                    <p>Mary Had A Little Choad, Yo - Aug 05, 2024</p>
+                    <audio controls class="cover-image">
+                        <source src="https://audio.jukehost.co.uk/b5yAnZJW3UFYPk1BUSmT3adoFknXl6Fz" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio> 
+                </div>
+                <div class="Prelude-Text">
+                    This was the first song I ever released solo on BandLab. I had a midi keyboard and was messing around with it, trying to play some melodies. I started recording and playing Mary Had a Little Lamb and I messed it up a few times. But I persevered and after I finished recording, I decided to add drums. And after that, I added some vocals over it.
+                    <br>
+                    This was released on BandLab - and later - Soundcloud.
+                </div>
+            </div>
+        </div>
+        <div class="Prelude">
+            <div class="Prelude-Content">
+                <div class="Prelude-Audio">
+                    <p>Song Of The Summer! (ft. lil kc) - Aug 14, 2024</p>
+                    <audio controls class="cover-image">
+                        <source src="https://audio.jukehost.co.uk/XxrmHIQaWgXORDRNg2oRbKDZxwTDivCX" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio> 
+                </div>
+                <div class="Prelude-Text">
+                    To be honest I don’t really know the story behind this. I just made some weird non-music soundscape of a concert with some crowd members being heard. See if you can pick them all out. Also fun fact, the owl sound at the start was going to be my producer tag.
+                    <br>
+                    This was released on BandLab - and later - Soundcloud.
+                </div>
+            </div>
+        </div>
+        <div class="Prelude-important">
+            <div class="Prelude-Content">
+                <div class="Prelude-Audio">
+                    <p>Greetings Loved Ones (ft. lil kc & freaky j) - Aug 15, 2024</p>
+                    <audio controls class="cover-image">
+                        <source src="https://audio.jukehost.co.uk/x2qcKTgfw9I36goNO4xp7tVypOO7bp1p" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio> 
+                </div>
+                <div class="Prelude-Text">
+                    The original version of Greetings Loved Ones. Me and lil kc were up late at night again and we decided to make a song again. We decided to make a classical parody of California Gurls. It was pretty clapped. At this point it was just me, lil kc, and freaky j. Freaky j never ended up recording on this, but he will come back later, trust me...
+                    <br>
+                    This never officially released.
+                </div>
+            </div>
+            <hr>
+            <div class="Prelude-Content">
+                <div class="Prelude-Audio">
+                    <p>sigma - Aug 15, 2024</p>
+                    <audio controls class="cover-image">
+                        <source src="https://audio.jukehost.co.uk/vi6bXgxbQDJMWuNseBXZmPRkg7PeyDfQ" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio> 
+                </div>
+                <div class="Prelude-Text">
+                    So this was a pluggnb remix of Greetings Loved Ones (ft. lil kc & freaky j). I guess at this time I was really into pluggnb remixes. I don't think I ever finished this, so it's pretty clapped. I didn't make this beat, all I did was paste the vocals on top of it.
+                    <br>
+                    This never officially released.
+                </div>
+            </div>
+            <hr>
+            <div class="Prelude-Content">
+                <div class="Prelude-Audio">
+                    <p>Greetings Loved Ones (ft. Lil Kc & Jimmy Frankfurt Da Rappa) - Sep 13, 2024</p>
+                    <img src="https://github.com/JettisonTM/JettisonTM.github.io/blob/main/media/in-memoriam/cream-day.png?raw=true" class="cover-image">
+                    <audio controls class="cover-image">
+                        <source src="https://audio.jukehost.co.uk/2k6uG8kfy9kdKtMHWa6FkpQMcZByVkx2" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio> 
+                </div>
+                <div class="Prelude-Text">
+                    THIS HAD THE FIRST APPEARANCE OF THE P SLIMER PRODUCER TAG
+                    <br>
+                    The Official Release version of Greetings Loved Ones. Freaky J was cut, and the final member of Cream Day was featured; Jimmy Frankfurt The Rappa. This song actually had some more effort put into it than any before. However, it was very freaky. Just ignore this...
+                    <br>
+                    This was released on BandLab - and later - Soundcloud, and I believe did get a music video.
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="button-container">
+            <a href="https://jettisontm.github.io/in-memoriam/" class="button">Back</a>
+        </div>
+        <br>
+    </body>
+</html>

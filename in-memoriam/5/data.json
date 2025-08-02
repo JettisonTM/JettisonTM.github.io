@@ -1,0 +1,29 @@
+{
+  "pageTitle": "The E L E M E N T [Y] Era",
+  "pageDescription": "After [X] was released, Jizza and I wanted to release another song in the [XYZ] trio. So the same night as [X] released I got started on another beat. I wanted to use a sample as an intro like a lot of Instagram prods were doing at the time, so I used another thing that was popular at the time; Alvin and the chipmunks getting cracked. So I started making the beat and it was sounding pretty good so I sent it to Jizza, and he thought it was good too so we decided to hop on it.",
+  "items": [
+    {
+      "versions": [
+        {
+          "name": "[Y] V1",
+          "date": "Oct 21, 2024",
+          "description": "The first version of [Y]. I had the intro planned and got some drums down but the mixing was very bad. This song was also made the same night that [X] released.",
+          "audio": "https://audio.jukehost.co.uk/bWptIpczrLwXjFrL9KuUMimW7AfXkJzr"
+        },
+        {
+          "name": "[Y] V2",
+          "date": "Oct 21, 2024",
+          "description": "The second version of [Y]. I did some more arrangement of the beat but it was still kinda buns.",
+          "audio": "https://audio.jukehost.co.uk/gyWVAmnvQrtzib9Dm9ip0gQMRqKsY7TK"
+        },
+        {
+          "name": "E L E M E N T [Y]",
+          "date": "Nov 06, 2024",
+          "description": "The second official release of the [XYZ] trio. This was recorded only 2 weeks after E L E M E N T [X] released. [Y] is considered the worst song out of the trilogy, it was sloppily made, poorly mixed, had clapped vocals, a corny intro, and bad mixing.\nNot much to be said about this song, other than it took longer than [X] to finish, and the song cover was very lackluster.",
+          "audio": "https://audio.jukehost.co.uk/ymLmck5pCiz2reBq5chinuFvEwdYav1Q",
+          "image": "https://raw.githubusercontent.com/JettisonTM/JettisonTM.github.io/refs/heads/main/media/in-memoriam/element-y_cover.png"
+        }
+      ]
+    }
+  ]
+}
